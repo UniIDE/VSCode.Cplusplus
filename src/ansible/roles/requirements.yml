@@ -1,0 +1,4 @@
+---
+roles:
+- UniInc.Clangd-language-server
+- UniInc.SCode-Extension-Clangd
